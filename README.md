@@ -1,0 +1,1 @@
+App created to test React skills during job intervew.
