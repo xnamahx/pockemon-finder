@@ -1,11 +1,13 @@
 App created to test React skills during job intervew.
 
-Instructions
+Instruccions
 
-´git clone https://github.com/xnamahx/pokemon-finder.git
+```
+git clone https://github.com/xnamahx/pokemon-finder.git
 
 cd pokemon-finder
 
 npm i
 
-npm start´
+npm start
+```
